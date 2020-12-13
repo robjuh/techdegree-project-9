@@ -2,11 +2,6 @@
     padding: 0;
     margin: 0;
 }
-
-@font-face {
-    font-family: "Gilbert-Color Bold Preview5";
-    src: url("Gilbert-Color Bold Preview5.otf");
-}
  
 body {
     font-family: 'Quicksand', sans-serif;
